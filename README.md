@@ -80,18 +80,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleuciel-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bleuciel-k/bleuciel-k/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bleuciel-k/bleuciel-k/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bleuciel-k/bleuciel-k/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 <!-- ===================== Footer ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=120&section=footer" alt="footer" width="100%" />
